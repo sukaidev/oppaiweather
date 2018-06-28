@@ -4,8 +4,8 @@
     <version value="1"/>
 
     <list>
-        <mapping class="com.oppaiweather.android.db.Province" />
-        <mapping class="com.oppaiweather.android.db.City" />
-        <mapping class="com.oppaiweather.android.db.County" />
+        <mapping class="com.example.oppaiweather.db.Province" />
+        <mapping class="com.example.oppaiweather.db.City" />
+        <mapping class="com.example.oppaiweather.db.County" />
     </list>
 </litepal>
