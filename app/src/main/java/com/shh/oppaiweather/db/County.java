@@ -1,4 +1,4 @@
-package com.example.oppaiweather.db;
+package com.shh.oppaiweather.db;
 
 import org.litepal.crud.LitePalSupport;
 

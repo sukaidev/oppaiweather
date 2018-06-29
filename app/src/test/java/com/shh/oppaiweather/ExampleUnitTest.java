@@ -1,4 +1,4 @@
-package com.example.oppaiweather;
+package com.shh.oppaiweather;
 
 import org.junit.Test;
 
